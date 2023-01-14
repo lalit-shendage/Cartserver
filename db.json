@@ -1,26 +1,31 @@
-[
-  {
-    "id":1,
-    "name": "Pizza",
-    "price": "10",
-    "quantity": "7"
-  },
-  {
-     "id":2,
-    "name": "Cerveja",
-    "price": "12",
-    "quantity": "5"
-  },
-  {
-     "id":3,
-    "name": "Hamburguer",
-    "price": "10",
-    "quantity": "2"
-  },
-  {
-     "id":4,
-    "name": "Fraldas",
-    "price": "6",
-    "quantity": "2"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
