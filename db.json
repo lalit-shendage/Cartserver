@@ -2,15 +2,35 @@
   "items": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Monitor",
+      "description":"This Black Gaming screen is a perfect 32-inches (81.28 cm) curved monitor that comes in a super narrow bezel frame. With a wide color gamut, your game immersion experience will get more realistic & refined.",
+      "price":15000,
+      "stars":4,
+      "imgurl":"https://m.media-amazon.com/images/I/61ANdv+2OxL._AC_SL1024_.jpg"
     },
     {
       "id": 2,
-      "title": "Post 2"
+       "title": "Water bottle",
+      "description":"Double walled Vacuum insulated technology keeps beverages hot or cold for 24 hours, Inner copper coating for better temperature retention. A unique bottle that makes pouring completely hassle-free and spill-free.",
+      "price":499,
+      "stars":5,
+       "imgurl":"https://cdn.shopify.com/s/files/1/2399/6481/products/Weblist_10.jpg"
     },
     {
       "id": 3,
-      "title": "Post 3"
+       "title": "Glasses",
+      "description":" Featuring Blu Lens technology which helps in protecting your eyes by blocking the harmful blue light emitted by digital devices like your smartphone and computer as well as filter the UV rays from the sun | Ideal for Men & Women",
+      "price":1299,
+      "stars":3,
+       "imgurl":"https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/blue-full-rim-rectangle-vincent-chase-online-essentials-vc-e15100-c2-eyeglasses_g_3628_15_07_2022.jpg"
+    },
+    {
+      "id": 4,
+       "title": "Mouse",
+      "description":"Gaming mouse with 6 control buttons giving you the flexibility to make the right moves in any game situation, Compatible with Windows XP and above;Ergonomic design for professional gamers to offer an extra comfort and reduce the strain on your hands.",
+      "price":399,
+      "stars":4,
+       "imgurl":"https://5.imimg.com/data5/ECOM/Default/2022/7/CP/SE/QE/3219025/81pbkcie0ml-sl1500-1000x1000.jpg"
     }
   ]
   
